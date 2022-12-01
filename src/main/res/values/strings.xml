@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">List</string>
+    <string-array name="Colors">
+        <item name="yellow">List</item>
+        <item name="bleu">List</item>
+        <item name="green">List</item>
+        <item name="red">List</item>
+    </string-array>
+</resources>
